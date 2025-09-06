@@ -1,5 +1,5 @@
 ## Hi  
-
+I am new to programming and trying to learn fullstack
 <!--
 **Rainbored/rainbored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
